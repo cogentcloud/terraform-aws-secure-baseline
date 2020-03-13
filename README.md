@@ -4,7 +4,7 @@
 
 [Terraform Module Registry](https://registry.terraform.io/modules/nozaq/secure-baseline/aws)
 
-A terraform module to set up your AWS account with the reasonably secure configuration baseline.
+ A terraform module to set up your AWS account with the reasonably secure configuration baseline.
 Most configurations are based on [CIS Amazon Web Services Foundations] v1.2.0.
 
 See [Benchmark Compliance](./compliance.md) to check which items in CIS benchmark are covered.
